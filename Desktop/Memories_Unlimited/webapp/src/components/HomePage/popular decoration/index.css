@@ -1,0 +1,81 @@
+.decmain{
+    margin-top: 10px;
+    padding-top: 80px;
+}
+
+.list{
+    
+    height: 250px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 30%;
+
+}
+.list li{
+display: inline-block;
+}
+.decimage{
+width: 450px;
+height: 300px;
+padding: 20px;
+padding-top: 10px;
+border-radius: 10% ;
+object-fit:cover;
+}
+
+.deccard{
+margin-left: 80px;
+padding: 2px;
+margin-top: 20px;
+
+}
+.decHeading{
+margin-top: 60px;
+margin-left: 80px;
+}
+.decHead{
+font-size: 18px;
+padding-left: 15px;
+text-align: center;
+font-weight: bold;
+}
+
+.decicon_price{
+display: flex;
+color: rgb(255, 20, 147);
+font-weight: bold;
+font-size: 20px;
+padding: 15px;
+margin-left: 30px;
+}
+.decCus{
+margin-left: 40px;
+font-weight: bold;
+color: gray;
+}
+.decDiscoun{
+display: flex;
+}
+.decicon1{
+padding-left: 10px;
+color: gray;
+}
+.decDiscoun1{
+color: gray;
+margin-top: 1px;
+}
+.decimageexpcard{
+background-color: rgb(255, 255, 255);
+transition: transform .5s; 
+width: 280px;
+height: 280px;
+margin-left: 20px;
+} 
+
+.decimage:hover {
+transform: scale(1.1);
+cursor: pointer;
+}

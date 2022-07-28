@@ -1,0 +1,26 @@
+.inputAddress{
+    display:inline-block;
+    flex-direction: column;
+    padding: 10px;
+}
+.boxAddress{
+    height: 45px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+.mainAddress{
+    margin: 100px;
+}
+.buttonAddress{
+    text-decoration: none;
+    margin-left: 20px;
+    width: 48%;
+    height: 40px;
+    background-color:rgb(255, 20, 147);
+    font-weight: bolder;
+    color: white;
+}
+.Addresses{
+    font-weight: bold;
+}

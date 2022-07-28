@@ -1,0 +1,48 @@
+.image_getintouch{
+    display:inline-block;
+    flex-direction: column;
+    object-fit: cover;
+    margin-left: 900px;
+    padding-left: 10px;
+    justify-content: space-around;
+    flex: content;
+    margin-top: -600px;
+    width: 800px;
+    height: 600px;
+   
+ 
+}
+.input_getintouch{
+    display:inline-block;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.box_getintouch{
+    height: 45px;
+    width: 790px;
+    padding-left: 10px;
+    margin: 10px;
+}
+.messagebox_getintouch{
+    width:790px;
+    height:150px;
+    padding:10px;
+    margin:10px;
+
+}
+.button_getintouch{
+    text-decoration: none;
+    margin-left: 10px;
+    width: 90%;
+    height: 40px;
+    background-color:rgb(255, 20, 147);
+    font-weight: bolder;
+    color: white;
+}
+.main_getintouch{
+    margin: 100px;
+}
+.GetinTouch{
+    margin-left: 22px;
+    font-weight: bold;
+}
