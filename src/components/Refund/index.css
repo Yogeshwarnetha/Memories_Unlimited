@@ -1,0 +1,101 @@
+.Refund_main{
+    margin-top: 20px;
+}
+.RefundDetail_Refund{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 70px;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.Refund_Refund{
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid gainsboro ;
+    margin-left: 70px;
+}
+.Refund_seeDetail{
+    font-size: 16px;
+    color: red;
+}
+.Refund_seeDetail{
+    display:inline-block;
+    margin-left: 20px;
+}
+.Discount_Refund,
+.AmountPaid_Refund,
+.Cancellation_Refund{
+    font-size: 16px;
+    margin-left: 70px;
+    padding: 5px;
+    font-weight:450;
+}
+.image_Yourprofile{
+    display:inline-block;
+    flex-direction: column;
+    object-fit: cover;
+    margin-left: 1150px;
+    padding-left: 10px;
+    justify-content: space-around;
+    flex: content;
+    margin-top: -310px;
+ 
+}
+.change_Yourprofile{
+    display: inline-block;
+    text-align: left;
+    font-size: 50px;
+    color: white;
+    padding: 25px;
+    font-weight: bold;
+}
+.button_Refund{
+    size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+    width: 50%;
+    height: 40px;
+    background-color:rgb(255, 20, 147);
+    color: white;
+    margin-left: 70px;
+}
+.mem_color_Yourprofile{
+    color:rgb(255, 20, 147) ;
+    
+}
+.sub_mem_Yourprofile{
+    font-size: 18px;
+    display: flex;
+    padding-top: 5px; 
+    font-weight: 400;
+}
+.sub_mem1_Yourprofile{
+    font-size: 18px;
+    display: flex;
+    padding-top: 10px; 
+}
+.redirect_Yourprofile{
+    margin-left: 30px;
+    margin-bottom: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding:10px;
+    font-size: 18px;
+    color: black;
+
+}
+.YourProfile{
+    color: black;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.style-image_Yourprofile{
+    width: 500px;
+    height: 700px;
+}

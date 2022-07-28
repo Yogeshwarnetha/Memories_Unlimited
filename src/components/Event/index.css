@@ -1,0 +1,220 @@
+.Event1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.Event_button{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    background-color:black;
+    width: 15%;
+    height: 5%;
+    padding: 8px;
+    border-radius: 5px;
+    align-items: center;
+    margin-top: 1%;
+    
+}
+.EventBackground{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 50%;
+    height: 550px;
+    width: 580px;
+    margin-top: 4%;
+    background-image:url(https://images.unsplash.com/photo-1478402151108-ba362d938d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80);
+    background-position: center;
+    background-size: auto;
+
+}
+.Event_main{
+    color: orange;
+}
+.Event2{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 35px;
+}
+.Crafting{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 9%;
+}
+.Event_Services{
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.Event_Image1{
+    height: 400px;
+    width: 350px;
+    margin-top: 16%;
+}
+.Event_image{
+    object-fit: cover;
+    height: 280px;
+    width: 360px;
+    margin-left: 5%;
+    padding-left: 22%;
+}
+.Event_2{
+    display: flex;
+    flex-direction: column;
+}
+.Event_head{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 30%;
+}
+.map-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2%;
+}
+.Event_Social{
+    margin-top: 4%;
+    margin-left: 5%;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.Social_button{
+    font-weight: 400;
+    margin-left: 3%;
+    border-radius: 10px;
+    width: 5%;
+    height: 2%;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(245, 241, 241);
+}
+
+.EventBackground1{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 15%;
+    height: 520px;
+    width: 450px;
+    margin-top: 18%;
+    background-image:url(https://yannidesignstudio.com/app/uploads/2019/08/venuti-s-italian-restaurant-and-banquet-hall-chicago-addison-venue-wedding-ceremony-reception-purple-lights-floating-candles-pictures-photos-floral-centerpieces-flower-arrangements-unique-decor-guest-tables-decorations-ideas.jpg);
+    background-position: center;
+    background-size: auto;
+
+}
+.Event_Image_1{
+    object-fit: cover;
+}
+.Events_social1{
+    margin-top: 19%;
+    margin-left: 55%;
+}
+.SocaialEvent_1{
+    display: flex;
+    flex-direction: column;
+
+}
+.Events_Social2{
+    color: orange;
+    font-weight: bold;
+    font-size: 35px;
+}
+.Events_Social3{
+    font-size: 18px;
+
+}
+.Events_Social4{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 42px;
+    margin-left: 5%;
+
+}
+.Event_button_Social{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    background-color:black;
+    width: 15%;
+    height: 5%;
+    padding: 8px;
+    border-radius: 5px;
+    align-items: center;
+    margin-top: 1%;
+    margin-left: 55%;
+}
+.CardEvent{
+    width: 400px;
+    height: 430px;
+}
+.CardImage_Event{
+    height: 210px;
+    width: 380px;
+}
+.EventBackground1_1{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 55%;
+    height: 520px;
+    width: 450px;
+    margin-top: 18%;
+    background-image:url(https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F453779%2Fbusiness-meeting_gettyimages-603992138.jpg&w=700&op=resize);
+    background-position: center;
+    background-size: auto;
+
+}
+.Event_Image_1_1{
+    object-fit: cover;
+    padding-top: 10%;
+    height: 10%;
+    width: 10%;
+
+}
+.Events_social1_1{
+    margin-top: 19%;
+    margin-left: 15%;
+}
+.SocaialEvent_1_1{
+    display: flex;
+    flex-direction: column;
+
+}
+.Events_Social2_1{
+    color: orange;
+    font-weight: bold;
+    font-size: 35px;
+}
+.Events_Social3_1{
+    font-size: 18px;
+
+}
+.Events_Social4_1{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 42px;
+    margin-left: 5%;
+
+}
+.Event_button_Social_1{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    background-color:black;
+    width: 15%;
+    height: 5%;
+    padding: 8px;
+    border-radius: 5px;
+    align-items: center;
+    margin-top: 1%;
+    margin-left: 55%;
+}

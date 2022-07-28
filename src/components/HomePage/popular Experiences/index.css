@@ -1,0 +1,80 @@
+.expmain{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.list{
+    
+        height: 250px;
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        border-radius: 20px;
+    
+}
+.list li{
+    display: inline-block;
+}
+.expimage{
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 10% ;
+    object-fit:cover;
+}
+
+.expcard{
+    padding: 2px;
+    margin-top: 20px;
+    
+}
+.ExpHeading{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.expHead{
+    font-size: 18px;
+    padding-left: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.expicon_price{
+    display: flex;
+    color: rgb(255, 20, 147);
+    font-weight: bold;
+    font-size: 20px;
+    padding: 15px;
+    margin-left: 30px;
+}
+.expCus{
+    margin-left: 40px;
+    font-weight: bold;
+    color: gray;
+}
+.ExpDiscoun{
+    display: flex;
+}
+.expicon1{
+    display: inline-block;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    color: gray;
+}
+.ExpDiscoun1{
+    color: gray;
+    text-decoration:line-through;
+}
+.expimageexpcard{
+    background-color: rgb(255, 255, 255);
+    transition: transform .5s; 
+    width: 280px;
+    height: 280px;
+    margin-left: 20px;
+} 
+
+.expimage:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}

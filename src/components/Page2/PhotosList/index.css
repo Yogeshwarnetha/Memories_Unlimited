@@ -1,0 +1,28 @@
+.photolist_main{
+    display: flex;
+    flex-direction: row;
+    
+}
+.Photolist_image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    object-fit: cover;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.Photolist_title{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+
+    
+}
+.Decoration_PhotoList{
+    margin-bottom: 250px;
+}

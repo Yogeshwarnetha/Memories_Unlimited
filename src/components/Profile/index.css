@@ -1,0 +1,77 @@
+.MainProfile{
+    width: 100vw;
+    height: 100vh;
+
+}
+.image_Yourprofile1{
+    display:inline-block;
+    flex-direction: column;
+    object-fit: cover;
+    margin-left: 65%;
+    padding-left: 1%;
+    justify-content: space-around;
+    flex: content;
+    margin-top: -50%;
+ 
+}
+.input_Yourprofile{
+    display:inline-block;
+    flex-direction: column;
+    padding: 0.5%;
+}
+.box_Yourprofile{
+    height: 5vh;
+    width: 26.5vw;
+    padding: 10px;
+    margin: 10px;
+}
+.main_Yourprofile{
+    margin: 100px;
+}
+.button_Yourprofile{
+    text-decoration: none;
+    margin-left: 1%;
+    width: 61%;
+    height: 5vh;
+    background-color:rgb(255, 20, 147);
+    font-weight: bolder;
+    color: white;
+}
+.change_Yourprofile{
+    display: inline-block;
+    text-align: left;
+    font-size: 4%;
+    color: white;
+    padding: 12%;
+}
+.mem_color_Yourprofile{
+    color:rgb(255, 20, 147) ;
+    
+}
+.sub_mem_Yourprofile{
+    font-size: 4%;
+    display: flex;
+    padding-top: 5px; 
+    font-weight: 400;
+}
+.sub_mem1_Yourprofile{
+    font-size: 4%;
+    display: flex;
+    padding-top: 10px; 
+}
+.redirect_Yourprofile{
+    margin-left: 30px;
+    margin-bottom: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding:10px;
+    font-size: 18px;
+
+}
+.YourProfile{
+    color: black;
+    font-weight: bold;
+    margin-left: 20px;
+}

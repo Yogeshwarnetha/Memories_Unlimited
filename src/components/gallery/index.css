@@ -1,0 +1,19 @@
+.galleryimage{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;    
+    padding: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+    
+    
+}
+
+ .gallery1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 20px;
+ } 
